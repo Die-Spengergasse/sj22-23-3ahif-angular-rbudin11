@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:white;
+}
+
+h1,h2,h3,h4,h5,h6,p,footer,a{
+    font-family: fantasy;
+    font-size:x-large;
+    
+    margin:auto;
+    width:50%;
+    padding: 10px;
+    text-align: center;
+    
+}
+a{
+    font-size: xx-large;
+}
+
+p{
+    font-size: larger;
+}
+
+footer{
+    font-size:xx-small;
+    margin-top: 90vh;
+    color: aliceblue;
+}
